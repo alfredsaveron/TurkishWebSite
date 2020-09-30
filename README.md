@@ -8,7 +8,7 @@ Gönüllü olarak hazır olarak GitHub ve Glitch'de paylaşılan bir Web Site Ş
 
 <code>style.css / default.css </code> Sitenizin renklerini ve özel CSS ayarlarını kontrol edebileceğiniz kodları burada düzenleyebilirsiniz. 
 
-**Dikkat** Çok fazla yapılan değişiklikler sitenizin stabil çalışmasına engel olur.
+**Dikkat** Çok fazla yapılan değişiklikler sitenizin stabil çalışmasına engel olur..
 
 # Unutmayınız!
 

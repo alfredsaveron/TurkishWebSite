@@ -1,4 +1,4 @@
-# Turkish Site 
+# Turkish Sample Website 
 
 Gönüllü olarak hazır olarak GitHub ve Glitch'de paylaşılan bir Web Site Şablonudur. Gönüllü olarak Türkçe yapılmıştır.
 

@@ -12,4 +12,4 @@ Gönüllü olarak hazır olarak GitHub ve Glitch'de paylaşılan bir Web Site Ş
 
 # Unutmayınız!
 
-Şablonun sahibi olan Proje adını lütfen projeninizin sağlığı için kaldırmamanız gerekir , <code>Footer Alanı </code> 
+Şablonun sahibi olan Proje adını lütfen projeninizin sağlığı için kaldırmamanız gerekir , <code>Footer Alanı</code> 

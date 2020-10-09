@@ -1,4 +1,4 @@
-# Support Turkish Language Website
+# Support Turkish Language Website!
 
 Gönüllü olarak hazır olarak GitHub ve Glitch'de paylaşılan bir Web Site Şablonudur. Gönüllü olarak Türkçe yapılmıştır.
 
